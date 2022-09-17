@@ -36,7 +36,7 @@ npm run android
 
 ## Demo
 
-![](https://github.com/ShahzaibJutt/Chess-Vision-Bot/ChessVisionBotDemo.gif)
+![](https://github.com/ShahzaibJutt/AgroTech-Potato-Disease-Detection/blob/main/screenshots/AgroTech%20Potato%20Disease%20Detection%20Demo.gif)
 
 ## Screenshots
 
