@@ -36,13 +36,7 @@ npm run android
 
 ## Demo
 
-![App Demo](https://media.giphy.com/media/hoIqnYtyLdkDWj75wZ/giphy.gif)
-
-## Screenshots
-
-<img src="https://github.com/ShahzaibJutt/AgroTech-Potato-Disease-Detection/blob/main/screenshots/Early%20Blight.png" width="230" height="450">
-
-<!-- ![App Screenshot](https://github.com/ShahzaibJutt/AgroTech-Potato-Disease-Detection/blob/main/screenshots/Early%20Blight.png | width=100) -->
+<img src="https://github.com/ShahzaibJutt/AgroTech-Potato-Disease-Detection/blob/main/screenshots/AgroTech%20Potato%20Disease%20Detection%20Demo.gif" width="230" height="470">
 
 
 ## 🔗 Links
